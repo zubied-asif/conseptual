@@ -1,0 +1,21 @@
+.box{
+    padding: 20px;
+    background-color:red ;
+    width: 110px;
+    height: 110px;
+}
+.box2{
+    background-color: rgb(27, 44, 1);
+}
+.box3{
+    background-color: blue;
+}
+.container{
+    display: flex;
+    height: 500px;
+    justify-content:space-around;
+    align-items: center;
+    border: 1px solid gray;
+   
+
+}
